@@ -1,5 +1,5 @@
 # Website-local-garasel
-Garasel adalah platform e-commerce yang mengintegrasikan HTML, CSS, JAVASCRIPT, dan PHP yang memungkinkan pengguna untuk membeli produk fashion dengan sistem keranjang belanja dan transaksi online. Website ini berjalan di local
+Garasel adalah platform e-commerce yang mengintegrasikan HTML, CSS, JAVASCRIPT, dan PHP yang memungkinkan pengguna untuk membeli produk fashion dengan sistem keranjang belanja dan transaksi online. Website ini berjalan di lokal
 
 ## ✨ Fitur Utama
 - **🏠 Halaman Utama** – Menampilkan daftar produk fashion.
